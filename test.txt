@@ -2,3 +2,7 @@ test clone file
 one line
 two line
 three line
+
+four line
+fife line
+six line
